@@ -35,7 +35,6 @@ void setup()
   pinMode(leftBk, OUTPUT);
   pinMode(trig, OUTPUT);
   pinMode(echo, INPUT);
-  Serial.begin(9600);
 }
 
 void loop()
