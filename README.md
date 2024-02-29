@@ -1,4 +1,4 @@
-## Braking System
+## Brake System
 
 Utilizing PWM and PID control to regulate the movement of a car.
 
